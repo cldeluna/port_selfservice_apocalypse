@@ -25,7 +25,7 @@ But 99% of the time the user would benefit from having this capability.
 
 So many good things can come from offering a service like this and yet many organizations think this type of user self service can only lead to an apocalypse.
 
-![astro1](images/astro1.jpeg)
+![astro1](images/astro1up.jpg)
 
 
 
