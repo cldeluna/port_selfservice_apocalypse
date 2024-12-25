@@ -1,7 +1,5 @@
-- [ ] ## Simplifying Network Automation with NetGru 
-
-
-*... with Cisco DevNet's **Adrian Iliesiu***
+# Simplifying Network Automation with NetGru
+## *... with Cisco DevNet's **Adrian Iliesiu***
 
 ### Network Port Self Service - *Maybe* it does not have to be the apocalypse
 
